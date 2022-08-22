@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 22 14:30:03 CST 2022
+jackson-jr-objects-2.13.0.jar>=
+jackson-jr-objects-2.13.0.pom>=

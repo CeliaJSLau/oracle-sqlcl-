@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google</groupId>
+  <artifactId>guava-with-lf</artifactId>
+  <versioning>
+    <release>30.1.1-jre</release>
+    <versions>
+      <version>30.1.1-jre</version>
+    </versions>
+    <lastUpdated>20220822063004</lastUpdated>
+  </versioning>
+</metadata>
